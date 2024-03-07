@@ -1,24 +1,26 @@
 import { Sequelize } from "sequelize";
 
 const sequelize = new Sequelize(
-  "otbzbgfx",
-  "otbzbgfx",
-  "npjrcNk22j7sqY_bcnCAMgpOhoi5tLrM",
+  process.env.DATABASE_NAME,
+  process.env.DATABASE_USER,
+  process.env.DATABASE_PASSWORD,
   {
-    host: "silly.db.elephantsql.com",
-    port: 5432,
+    host: process.env.DATABASE_HOST,
+    port: process.env.DATABASE_PORT,
     dialect: "postgresql",
   }
 );
 //check de conexion
-try {
+async function testConection(){
+  try{
     await sequelize.authenticate();
-    console.log('Conexion establecida.');
+    console.log('Conexion establecida correctamente.');
   } catch (error) {
-    console.error('No pudo conectarse:', error);
+    console.error('No se pudo conectar a la base de datos:', error);
   }
+}
 
-  export default sequelize
+// Ejecutar para probar la conexion
+testConection();
 
-
-  
+export default sequelize;
