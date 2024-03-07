@@ -1,0 +1,47 @@
+[
+    {
+        "id_product": 3,
+        "product_name": "Huevo",
+        "description": "Huevo de granja",
+        "category": "lacteos y huevos",
+        "location": "heladera",
+        "createdAt": "2024-02-28T13:48:20.596Z",
+        "updatedAt": "2024-02-28T13:48:20.596Z"
+    },
+    {
+        "id_product": 4,
+        "product_name": "Leche",
+        "description": "leche",
+        "category": "lacteos y huevos",
+        "location": "heladera",
+        "createdAt": "2024-02-28T13:48:39.507Z",
+        "updatedAt": "2024-02-28T13:48:39.507Z"
+    },
+    {
+        "id_product": 5,
+        "product_name": "yogurt",
+        "description": "yogurt de vainilla",
+        "category": "lacteos y huevos",
+        "location": "heladera",
+        "createdAt": "2024-02-28T13:48:47.298Z",
+        "updatedAt": "2024-02-28T13:48:47.298Z"
+    },
+    {
+        "id_product": 6,
+        "product_name": "mermelada",
+        "description": "mermelada de durazno",
+        "category": "otros",
+        "location": "heladera",
+        "createdAt": "2024-02-28T13:55:00.572Z",
+        "updatedAt": "2024-02-28T13:55:00.572Z"
+    },
+    {
+        "id_product": 7,
+        "product_name": "cebolla",
+        "description": "cebolla blanca",
+        "category": "frutas y verduras",
+        "location": "huerta",
+        "createdAt": "2024-02-28T13:56:20.321Z",
+        "updatedAt": "2024-02-28T13:56:20.321Z"
+    }
+]

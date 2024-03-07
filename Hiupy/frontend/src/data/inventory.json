@@ -1,0 +1,102 @@
+[
+    {
+    "id_product": 1,
+    "product_name": "Huevo",
+    "description": "Huevo de granja",
+    "category": "lacteos y huevos",
+    "location": "heladera",
+    "createdAt": "2024-02-28T13:48:20.596Z",
+    "updatedAt": "2024-02-28T13:48:20.596Z",
+    "quantity": 12
+    },
+    {
+    "id_product": 30,
+    "product_name": "caramelos",
+    "description": null,
+    "category": null,
+    "location": "heladera",
+    "createdAt": "2024-03-04T18:52:39.503Z",
+    "updatedAt": "2024-03-04T18:52:39.503Z",
+    "quantity": 2
+    },
+    {
+    "id_product": 31,
+    "product_name": "asdasd",
+    "description": null,
+    "category": null,
+    "location": "heladera",
+    "createdAt": "2024-03-04T19:28:47.808Z",
+    "updatedAt": "2024-03-04T19:28:47.808Z",
+    "quantity": 222
+    },
+    {
+    "id_product": 32,
+    "product_name": "zapallito",
+    "description": null,
+    "category": null,
+    "location": "heladera",
+    "createdAt": "2024-03-04T19:40:51.446Z",
+    "updatedAt": "2024-03-04T19:40:51.446Z",
+    "quantity": 2
+    },
+    {
+    "id_product": 33,
+    "product_name": "galletitas",
+    "description": null,
+    "category": null,
+    "location": "alacena",
+    "createdAt": "2024-03-04T19:59:19.132Z",
+    "updatedAt": "2024-03-04T19:59:19.132Z",
+    "quantity": 1
+    },
+    {
+    "id_product": 34,
+    "product_name": "rabanitos",
+    "description": null,
+    "category": null,
+    "location": "huerta",
+    "createdAt": "2024-03-04T20:58:37.272Z",
+    "updatedAt": "2024-03-04T20:58:37.272Z",
+    "quantity": 10
+    },
+    {
+    "id_product": 35,
+    "product_name": "costeletas",
+    "description": null,
+    "category": null,
+    "location": "freezer",
+    "createdAt": "2024-03-04T21:06:40.158Z",
+    "updatedAt": "2024-03-04T21:06:40.158Z",
+    "quantity": 2
+    },
+    {
+    "id_product": 36,
+    "product_name": "cervezas",
+    "description": null,
+    "category": null,
+    "location": "freezer",
+    "createdAt": "2024-03-04T21:07:46.806Z",
+    "updatedAt": "2024-03-04T21:07:46.806Z",
+    "quantity": 6
+    },
+    {
+    "id_product": 37,
+    "product_name": "palta",
+    "description": null,
+    "category": null,
+    "location": "huerta",
+    "createdAt": "2024-03-04T21:43:07.261Z",
+    "updatedAt": "2024-03-04T21:43:07.261Z",
+    "quantity": 1
+    },
+    {
+    "id_product": 38,
+    "product_name": "agua y vino",
+    "description": null,
+    "category": null,
+    "location": "huerta",
+    "createdAt": "2024-03-04T21:45:33.258Z",
+    "updatedAt": "2024-03-04T21:45:33.258Z",
+    "quantity": 1
+    }
+    ]

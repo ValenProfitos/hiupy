@@ -1,0 +1,26 @@
+[
+    {
+        "id_product": 1,
+        "product_name": "Tacos al Pastor",
+        "img": "/assets/images/food-example.png",
+        "description": "Los tacos al pastor son un platillo tradicional mexicano. Consisten en carne de cerdo marinada con achiote y otras especias, asada en un trompo vertical y servida en tortillas de maíz con cebolla, cilantro, piña y salsa."
+    },
+    {
+        "id_product": 2,
+        "product_name": "Spaghetti Carbonara",
+        "img": "/assets/images/food-example.png",
+        "description": "La pasta carbonara es un plato italiano clásico. Se hace con spaghetti, huevo batido, queso pecorino o parmesano, panceta o guanciale, y pimienta negra."
+    },
+    {
+        "id_product": 3,
+        "product_name": "Ensalada César",
+        "img": "/assets/images/food-example.png",
+        "description": "La ensalada César es una ensalada clásica de la cocina internacional. Se hace con lechuga romana, aderezo César, crotones de pan tostado y queso parmesano rallado."
+    },
+    {
+        "id_product": 4,
+        "product_name": "Ensalada César",
+        "img": "/assets/images/food-example.png",
+        "description": "La ensalada César es una ensalada clásica de la cocina internacional. Se hace con lechuga romana, aderezo César, crotones de pan tostado y queso parmesano rallado."
+    }
+]

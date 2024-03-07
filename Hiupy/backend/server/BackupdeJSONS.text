@@ -1,0 +1,19 @@
+DISTINTOS JSON QUE HAGO ESTE ES UN BACKUP PARA NO TENER QUE VOLVER A ESCRIBIR SIEMPRE TODO
+
+** RECETAS **
+{
+   "recipe_name": "Arroz Amarillo",
+   "description": "Rico acompañamiento para tus comidas.",
+   "instruction": "Picar el ajo y la cebolla bien chiquitos. Ponerlos con un poquito de sal a fuego medio. Cortar el pollo en cuadraditos y ponerlo junto con la cebolla y el ajo. Poner el arroz y dos tazas de caldo, revolver cada tanto y dejar que se haga el arroz por aproximadamente 15 minutos. Poner condimento de arroz. Servir.",
+   "cook_time": 60,
+   "difficulty": "facil"
+}
+
+{
+        "recipe_name": "Pan de banana",
+        "description": "Pan de banana perfecto para acompañar desayunos y meriendas.",
+        "instruction": "Precalentar el horno a 180°. Pisar las bananas y agregar: yogurt, huevo, azucar o miel, escencia de vainilla, leche y mezclar todo. Agregar la harina con movimientos envolventes. Ponerle aceite en spay a la budinera y vertir la mezcla. Hornar entre 50 - 55 minutos.",
+        "cook_time": 90,
+        "difficulty": "facil",
+ }
+ 
