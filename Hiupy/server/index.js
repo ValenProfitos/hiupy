@@ -23,6 +23,12 @@ app.use(cors()
 // Middleware para manejar solicitudes JSON
 app.use(express.json());
 
+// Crear una instancia de Express
+app.listen(3000, async () => {
+    console.log(`Server listening on 3000`);
+    await syncModel();
+});
+
 // Rutas
 //Productos
 app.use("/api", router);
@@ -44,11 +50,7 @@ app.use("/api", prodRecipeRouter);
 
 app.use("/api", inventoryRouter);
 
-// Crear una instancia de Express
-app.listen(3000, async () => {
-    console.log(`Server listening on 3000`);
-    await syncModel();
-});
+
 
 //primer prueba de request datos json
 //app.get( '/verduras', (req,res) =>{
